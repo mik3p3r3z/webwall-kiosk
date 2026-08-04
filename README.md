@@ -57,7 +57,14 @@ The project does **not** include:
 
 ## Installation Steps
 
-1. Install **Linux Mint (linuxmint-22.3-xfce-64bit.iso)** using the supplied ISO or an official download.
+1. Download Linux Mint XFCE 22.3 ISO from the official website then install.
+
+    **https://linuxmint.com/download.php**
+    
+    Or click here:
+    
+    [Download Linux Mint XFCE](https://linuxmint.com/download.php)
+
 2. Enable **Automatic Login** during installation.
 3. Copy the **webwall** folder to the Desktop.
 4. Fix ownership:
